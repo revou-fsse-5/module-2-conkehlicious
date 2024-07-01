@@ -16,6 +16,6 @@
 ##### • Small Business landing page with form
 
 # Take a peep at This Project
-##### https://breakfasthub.netlify.app/
+##### https://coffeeshop0808.netlify.app/
 ##### https://revou-fsse-5.github.io/module-2-conkehlicious/
 
