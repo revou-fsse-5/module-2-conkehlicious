@@ -79,20 +79,19 @@ label i {
 .menu-title {
   font-size: 50px;
 }
-.pastry ul {
-  list-style-image: url(images/cake.png);
-  padding-left: 20px;
+.pastry {
+  list-style-image: url(/images/cupcake1.png);
 }
 .sandwich ul {
-  list-style-image: url(images/icon_sandwich.png);
+  list-style-image: url(/images/icon_sandwich.png);
   padding-left: 20px;
 }
 .special-menu ul {
-  list-style-image: url(images/iconbowl1.png);
+  list-style-image: url(/images/iconbowl1.png);
   padding-left: 20px;
 }
 .coffee ul {
-  list-style-image: url(images/icecoffeeicon.png);
+  list-style-image: url(/images/icecoffeeicon.png);
   padding-left: 20px;
 }
 .menu-column {
