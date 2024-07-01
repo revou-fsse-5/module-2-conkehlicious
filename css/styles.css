@@ -81,6 +81,7 @@ label i {
 }
 .pastry {
   list-style-image: url(/images/cupcake1.png);
+  padding-left: 20px;
 }
 .sandwich ul {
   list-style-image: url(/images/icon_sandwich.png);
