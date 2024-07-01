@@ -1,5 +1,4 @@
-<p align="center"><img width="200px" src="images/_d2ca58dd-9486-4c77-850a-dab7f16ddc23.jpg
-" alt="myself" /></p>
+<p align="center"><img width="200px" src="images/darren.jpg" alt="myself" /></p>
 
 
 # Untung's Landing page practice (HTML CSS)
