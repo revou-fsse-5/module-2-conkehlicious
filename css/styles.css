@@ -10,6 +10,7 @@
 }
 body {
   font-family: Roboto, arial;
+  height: 6000px;
 }
 /* navbar */
 nav {
@@ -79,7 +80,7 @@ label i {
   font-size: 50px;
 }
 .pastry ul {
-  list-style-image: url(images/cupcake1.png);
+  list-style-image: url(images/cake.png);
   padding-left: 20px;
 }
 .sandwich ul {
