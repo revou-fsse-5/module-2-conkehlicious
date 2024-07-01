@@ -3,7 +3,256 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document!!!</title>
+    <link rel="stylesheet" href="styles.css" />
+    <!-- link icon library -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+    />
+    <!-- link roboto font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <title>COFFEES SHOP 2</title>
   </head>
-  <body></body>
+  <body>
+    <!-- navbar -->
+    <nav>
+      <a href="#"><img src="images/logo.png" width="30px" alt="logo" /></a>
+      <label for="toggler"> <i class="fa fa-bars"></i></label>
+      <input type="checkbox" id="toggler" name="" />
+      <div class="menu">
+        <ul class="list">
+          <li><a href="#">Home</a></li>
+          <li><a href="#menu">Menu</a></li>
+
+          <li><a href="#contactus">Contact</a></li>
+          <li><a href="#">About Us</a></li>
+        </ul>
+      </div>
+    </nav>
+    <!-- navbar -end -->
+    <!-- container hero -->
+    <div class="container-hero">
+      <div class="center-text">EXPRESSO <br />YOUR SELF</div>
+      <div class="container-hero-sub">
+        <div class="img1">
+          <img src="images/icecoffee2.png" alt="icecoffee" />
+        </div>
+        <div class="img2">
+          <img src="images/croissant.png" alt="croissant" />
+        </div>
+      </div>
+    </div>
+
+    <!-- container menu start -->
+
+    <div class="container-menu" id="menu">
+      <div class="menu-title">NEVER TOO LATE TO GET BREAKFAST</div>
+      <hr />
+      <div class="menu-column">
+        <div class="pastry">
+          <h2>PASTRY</h2>
+          <ul>
+            <li>BANANA NUT BREAD</li>
+            <li>BROWNIE</li>
+            <li>BUTTER CROISSANT</li>
+            <li>CHEESE DANISH</li>
+            <li>CHOCOLATE CROISSANT</li>
+            <li>PLAIN BAGEL</li>
+          </ul>
+          <p>(Cream Cheese/Butter/Peanut butter)</p>
+        </div>
+
+        <div class="sandwich">
+          <h2>EGGS & SANDWICHES</h2>
+          <ul>
+            <li>AVOCADO TOAST</li>
+            <li>GRILLED CHEESE</li>
+            <li>EGGS ANY STYLE</li>
+          </ul>
+        </div>
+
+        <div class="special-menu">
+          <h2>SPECIAL BREAKFAST MENU</h2>
+          <ul>
+            <li>ASSORTED DIM SUM</li>
+            <li>INDONESIAN FRIED RICE</li>
+            <li>NASI KUNING BETAWI</li>
+            <li>NASI UDUK BETAWI</li>
+          </ul>
+        </div>
+
+        <div class="coffee">
+          <h2>COFFEE (ICE/HOT)</h2>
+          <ul>
+            <li>AMERICANO</li>
+            <li>CAPPUCCINO</li>
+            <li>LATTE</li>
+            <li>MATCHA LATTE</li>
+            <li>MOCHA LATTE</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- container menu end -->
+
+    <!-- special menu slider -->
+    <div class="popular-menu">
+      <h2>Our special menu</h2>
+      <a href="https://www.doordash.com/"> <button>ORDER NOW</button></a>
+    </div>
+
+    <div class="container-images-menu">
+      <div class="slider">
+        <div class="images">
+          <img src="images/nasigoreng.jpg" alt="" class="img-item" />
+          <img src="images/nasikuning.jpg" alt="" class="img-item" />
+          <img src="images/nasiuduk.jpg" alt="" class="img-item" />
+          <img src="images/nasigoreng.jpg" alt="" class="img-item" />
+          <img src="images/nasikuning.jpg" alt="" class="img-item" />
+          <img src="images/nasiuduk.jpg" alt="" class="img-item" />
+        </div>
+      </div>
+    </div>
+    <!-- GALLERY -->
+    <div class="gallery-tittle">
+      <h2>Gallery</h2>
+    </div>
+    <div class="grid-container">
+      <div class="product-grid">
+        <div class="card img1">
+          <img src="images/icecoffeepastel.jpg" alt="icecoffeepastel" />
+          <img class="hover-img" src="images/ice_coffee.jpg" alt="icecoffee" />
+        </div>
+        <div class="card img2">
+          <img
+            src="images/choco_croissantpastel.jpg"
+            alt="choco_croissantpastel"
+          />
+          <img
+            class="hover-img"
+            src="images/choco_croissant.jpg"
+            alt="choco_croissant"
+          />
+        </div>
+        <div class="card img3">
+          <img src="images/frenchtoastpastel.jpg" alt="frenchtoastpastel" />
+          <img
+            class="hover-img"
+            src="images/french_toast.jpg"
+            alt="french_toast"
+          />
+        </div>
+        <div class="card img4">
+          <img src="images/breadpastel.jpg" alt="" />
+          <img class="hover-img" src="images/bread (1).jpg" alt="bread" />
+        </div>
+        <div class="card img5">
+          <img src="images/eggpastel.jpg" alt="eggpastel" />
+          <img
+            class="hover-img"
+            src="images/eggs.jpg"
+            srcset="images/eggs.jpg 100w"
+            alt="sunnysideupegg"
+          />
+        </div>
+      </div>
+    </div>
+    <!-- footer -->
+    <div class="container-footer" id="contactus">
+      <!-- location-map start -->
+      <div class="footer-column">
+        <div class="map">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d99360.08999982207!2d-77.10338849978429!3d38.90105100000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b78dbb8a11a7%3A0xfcb14c812a384c1a!2sLa%20Colombe%20Coffee%20Roasters!5e0!3m2!1sen!2sus!4v1718032176190!5m2!1sen!2sus"
+            width="400"
+            height="400"
+            style="border-radius: 15px"
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+          ></iframe>
+        </div>
+        <!-- location-map end -->
+        <div class="container-location">
+          <h2>Address :</h2>
+          <p>900 6th ST NW</p>
+          <p>WASHINGTON, DC</p>
+          <p>20001</p>
+          <br />
+          <h2>Phone :</h2>
+
+          <p>917 - 8888 - 123</p>
+          <div class="sosmed">
+            <i class="fa-brands fa-square-facebook"></i>
+            <i class="fa-brands fa-square-instagram"></i>
+            <i class="fa-brands fa-x-twitter"></i>
+            <i class="fa-brands fa-tiktok"></i>
+          </div>
+        </div>
+        <!-- container contact -->
+        <div class="container-contact">
+          <div class="contact-text"><h2>CONTACT US</h2></div>
+          <form action="" method="get">
+            <div class="input-box">
+              <div>
+                <label for="name">Name </label>
+                <input type="text" id="name" placeholder="Your Name" required />
+              </div>
+
+              <div>
+                <label for="email">Email </label>
+                <input
+                  type="email"
+                  id="email"
+                  placeholder="Your Email"
+                  required
+                />
+              </div>
+
+              <div>
+                <label for="message">Message </label>
+                <textarea
+                  name="message"
+                  id="message"
+                  rows="5"
+                  placeholder="Your Message"
+                  required
+                ></textarea>
+              </div>
+
+              <input type="submit" value="SUBMIT" />
+            </div>
+            <div class="radio">
+              <label for="subcribe">Subcribe Our Newsletter</label><br />
+              <input
+                id="yes"
+                name="subcribe"
+                type="radio"
+                value="yes"
+                checked
+              />
+              YES <input id="no" name="subcribe" type="radio" value="no" /> NO
+            </div>
+            <div class="location">
+              <label for="location">Location </label>
+              <select name="Location" id="location">
+                <option value="virginia">VIRGINIA</option>
+                <option value="orlando">ORLANDO</option>
+                <option value="lasvegas">LAS VEGAS</option>
+              </select>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+    <footer>
+      <p>&copy;JUNE 2024 REVOU-BERLIN CLASS BY CONKEHLICIOUS</p>
+    </footer>
+  </body>
 </html>
