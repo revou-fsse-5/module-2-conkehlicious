@@ -78,7 +78,7 @@ label i {
 .menu-title {
   font-size: 50px;
 }
-.pastry {
+.pastry ul {
   list-style-image: url(/images/cupcake1.png);
   padding-left: 20px;
 }
