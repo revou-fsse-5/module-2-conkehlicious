@@ -17,6 +17,7 @@
 
 # Take a peep at This Project
 ##### https://coffeeshop0808.netlify.app/
-##### https://revou-fsse-5.github.io/module-2-conkehlicious/
+
 ##### https://darrenthong.xyz/module-02/
+##### https://revou-fsse-5.github.io/module-2-conkehlicious/
 
