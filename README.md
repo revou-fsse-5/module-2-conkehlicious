@@ -9,7 +9,7 @@
 
 <p><img width="400px" src="images/navbar.png" alt="navbar" /></p>
 
-##### • Dark and Light mode buttons
+##### • Dark and Light mode buttons created with Javascript
 
 <p><img width="200px" src="images/darkmodebutton.png" alt="darkmodebuttons" /></p>
 
