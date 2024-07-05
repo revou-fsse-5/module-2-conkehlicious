@@ -1,7 +1,7 @@
 
 <p align="center"><img width="400px" src="images/homepage.png" alt="myself" /></p>
 
-# Small Coffeshop business Landing page practice (HTML CSS)
+# Small Coffeshop business Landing page practice (HTML CSS + JS)
 
 ## features :
 
