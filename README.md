@@ -29,7 +29,7 @@
 
 <p><img width="400px" src="images/interior.png" alt="gallery" /></p>
 
-##### • About us or Contact us with "Submit Form"
+##### • About us or Contact us with "Submit Form" and Google Map 
 
 <p><img width="400px" src="images/aboutus.png" alt="gallery" /></p>
 
@@ -44,9 +44,7 @@
 
 ###### • Hit me up : conkehlicious@gmail.com
 
-# About This Project
 
-##### • Small Business landing page with form
 
 # Take a peep at This Project
 
