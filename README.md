@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-<p align="center"><img width="400px" src="images/homepage.png" alt="homepage" /></p>
-=======
+
 <p align="center"><img width="400px" src="images/homepage.png" alt="myself" /></p>
->>>>>>> 5b3298994e5a6e315294204d6025d50a0c278547
 
 # Small Coffeshop business Landing page practice (HTML CSS)
 
