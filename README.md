@@ -33,8 +33,8 @@
 
 <p><img width="400px" src="images/aboutus.png" alt="gallery" /></p>
 
-#####•  media responsive for mobile
-<p><img width="400px" src="images/mobile.png" alt="gallery" /></p>
+##### •  media responsive for mobile
+<p><img width="200px" src="images/mobile.png" alt="gallery" /></p>
 
 
 
