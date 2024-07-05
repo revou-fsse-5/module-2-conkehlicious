@@ -34,6 +34,7 @@ nav a {
 a:hover {
   cursor: cell;
   color: white;
+  border-bottom: 2px solid white;
 }
 .list {
   display: flex;
@@ -165,6 +166,8 @@ button:hover {
   display: flex;
   flex-direction: row;
   overflow-x: auto;
+  scroll-snap-align: x mandatory;
+  scroll-behavior: smooth;
 }
 
 /* gallery */
