@@ -43,6 +43,10 @@
 ##### •  media responsive for mobile
 <p><img width="200px" src="images/mobile.png" alt="gallery" /></p>
 
+
+<hr>
+
+
 <h2>Github Deployment</h2>
 <img width="100%" src="images/github.png" alt="github" />
 
@@ -52,10 +56,11 @@
 ##### 4. Click Action and done
 
 
+<hr>
 
+### • Hit me up : conkehlicious@gmail.com
 
-###### • Hit me up : conkehlicious@gmail.com
-
+<hr>
 
 
 # Take a peep at This Project
