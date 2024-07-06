@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-<p align="center"><img width="400px" src="images/homepage.png" alt="homepage" /></p>
-=======
 <p align="center"><img width="400px" src="images/homepage.png" alt="myself" /></p>
->>>>>>> 5b3298994e5a6e315294204d6025d50a0c278547
 
-# Small Coffeshop business Landing page practice (HTML CSS)
+# Small Coffeshop business Landing page practice with
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ## features :
 
@@ -32,13 +30,13 @@
 
 <p><img width="400px" src="images/interior.png" alt="gallery" /></p>
 
-##### • About us or Contact us with "Submit Form"
+##### • About us or Contact us with "Submit Form" and Google Map
 
 <p><img width="400px" src="images/aboutus.png" alt="gallery" /></p>
 
 ##### • I'm Working on my simple landing page project using
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ###### • Hit me up : conkehlicious@gmail.com
 
