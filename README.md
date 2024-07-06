@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 <p align="center"><img width="400px" src="images/homepage.png" alt="myself" /></p>
 
 # Small Coffeshop business Landing page practice with
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+=======
+
+<p align="center"><img width="400px" src="images/homepage.png" alt="myself" /></p>
+
+# Small Coffeshop business Landing page practice (HTML CSS + JS)
+>>>>>>> 25d1804c2ad7ae87c5ba375f2e9806547d4ab08b
 
 ## features :
 
@@ -10,7 +17,7 @@
 
 <p><img width="400px" src="images/navbar.png" alt="navbar" /></p>
 
-##### • Dark and Light mode buttons
+##### • Dark and Light mode buttons created with Javascript
 
 <p><img width="200px" src="images/darkmodebutton.png" alt="darkmodebuttons" /></p>
 
@@ -30,9 +37,18 @@
 
 <p><img width="400px" src="images/interior.png" alt="gallery" /></p>
 
+<<<<<<< HEAD
 ##### • About us or Contact us with "Submit Form" and Google Map
+=======
+##### • About us or Contact us with "Submit Form" and Google Map 
+>>>>>>> 25d1804c2ad7ae87c5ba375f2e9806547d4ab08b
 
 <p><img width="400px" src="images/aboutus.png" alt="gallery" /></p>
+
+##### •  media responsive for mobile
+<p><img width="200px" src="images/mobile.png" alt="gallery" /></p>
+
+
 
 ##### • I'm Working on my simple landing page project using
 
@@ -40,9 +56,7 @@
 
 ###### • Hit me up : conkehlicious@gmail.com
 
-# About This Project
 
-##### • Small Business landing page with form
 
 # Take a peep at This Project
 
