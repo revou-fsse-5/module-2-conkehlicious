@@ -33,7 +33,7 @@
 
 ##### • Cafe Interior (Image media responsive added)
 
-<p><img width="400px" src="images/interior.png" alt="gallery" /></p>
+<p><img width="400px" src="images/interior.png" alt="interior" /></p>
 
 ##### • About us or Contact us with "Submit Form" and Google Map
 
@@ -44,7 +44,13 @@
 ##### •  media responsive for mobile
 <p><img width="200px" src="images/mobile.png" alt="gallery" /></p>
 
+<h2>GITHUB Deployment</h2>
+<p><img width="400px" src="images/github.png" alt="interior" /></p>
 
+##### 1. Go to setting
+##### 2. Pages
+##### 3. Choose Main and save it
+##### 4. Click Action and done
 
 ##### • I'm Working on my simple landing page project using
 
