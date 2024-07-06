@@ -35,7 +35,6 @@
 
 <p><img width="400px" src="images/interior.png" alt="interior" /></p>
 
-##### • About us or Contact us with "Submit Form" and Google Map
 
 ##### • About us or Contact us with "Submit Form" and Google Map 
 
@@ -54,9 +53,6 @@
 
 
 
-##### • I'm Working on my simple landing page project using
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ###### • Hit me up : conkehlicious@gmail.com
 
