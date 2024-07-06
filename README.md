@@ -61,10 +61,20 @@
 
 ##### 1. Sign up or Login to Netlify 
 ##### 2. Add new site --> import an existing project (github)
-##### 3. Pick your project and type site name and hit deploy
+##### 3. Pick your project, type site name and hit deploy
 
 
 <hr>
+
+<h2>Get Your Own Domain</h2>
+
+##### 1. Sign up or Login to https://www.niagahoster.co.id/
+##### 2. Search domain that suits your need
+##### 3. Make a payment and you are done!!!
+
+<hr>
+
+<h2>Add Your Own Domain to Netlify </h2>
 
 ### • Hit me up : conkehlicious@gmail.com
 
