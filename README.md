@@ -1,17 +1,15 @@
-<<<<<<< HEAD
+<h1 align="center"> 
 <p align="center"><img width="400px" src="images/homepage.png" alt="myself" /></p>
 
-# Small Coffeshop business Landing page practice with
+<h2 align="center"> Small Coffeshop business Landing page practice with</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-=======
 
-<p align="center"><img width="400px" src="images/homepage.png" alt="myself" /></p>
-
-# Small Coffeshop business Landing page practice (HTML CSS + JS)
->>>>>>> 25d1804c2ad7ae87c5ba375f2e9806547d4ab08b
-
-## features :
+## Features :
 
 ##### • Position fixed Navbar
 
@@ -37,11 +35,9 @@
 
 <p><img width="400px" src="images/interior.png" alt="gallery" /></p>
 
-<<<<<<< HEAD
 ##### • About us or Contact us with "Submit Form" and Google Map
-=======
+
 ##### • About us or Contact us with "Submit Form" and Google Map 
->>>>>>> 25d1804c2ad7ae87c5ba375f2e9806547d4ab08b
 
 <p><img width="400px" src="images/aboutus.png" alt="gallery" /></p>
 
