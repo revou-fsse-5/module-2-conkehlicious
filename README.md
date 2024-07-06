@@ -55,6 +55,14 @@
 ##### 3. Choose Main and save it
 ##### 4. Click Action and done
 
+<hr>
+
+<h2>Deploy From Github to Netlify</h2>
+
+##### 1. Sign up or Login to Netlify 
+##### 2. Add new site --> import an existing project (github)
+##### 3. Pick your project and type site name and hit deploy
+
 
 <hr>
 
