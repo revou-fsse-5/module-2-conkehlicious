@@ -1,4 +1,3 @@
-<h1 align="center"> 
 <p align="center"><img width="400px" src="images/homepage.png" alt="myself" /></p>
 
 <h2 align="center"> Small Coffeshop business Landing page practice with</h2>
@@ -75,6 +74,14 @@
 <hr>
 
 <h2>Add Your Own Domain to Netlify </h2>
+<img width="500px" src="images/domainsteps.png" alt="domainsteps" />
+
+##### 1. Hit Domains in left side menu
+##### 2. Click add or register button 
+##### 3. enter your domain
+##### 4. copy all 4 dns to niaga hoster dns name servers
+
+<hr>
 
 ### • Hit me up : conkehlicious@gmail.com
 
